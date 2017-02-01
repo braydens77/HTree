@@ -1,4 +1,9 @@
-import edu.princeton.cs.algs4.StdDraw;
+// import statement not needed when using stdlib.jar
+// import StdDraw;
+
+// This library also can be used, but it contains unnecessary files for this project
+// import edu.princeton.cs.algs4.StdDraw;   
+
 public class HTree {
 	public static int canvasSize = 256;
 	public static int size = canvasSize /2;
